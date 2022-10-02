@@ -19,9 +19,6 @@
     "128": "img/icon128.png"
   },
   "permissions": ["downloads", "activeTab", "tabs", "scripting"],
-  "background": {
-    "service_worker": "background.bundle.js"
-  },
   "sandbox": {
     "pages": ["options.html"]
   },
