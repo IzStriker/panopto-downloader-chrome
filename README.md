@@ -1,6 +1,8 @@
 # Panopto Downloader
 ![Panopto Downloader Logo](public/img/header.svg)
 
+Like the original program, but so much simpler and working
+
 ## Thank you for your support
 On 30 July 2021, Panopto changed the way its "Podcast mode" works. As a result, the original version of Panopto Downloader stopped working for most organisations.
 
